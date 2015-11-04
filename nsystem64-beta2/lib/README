@@ -1,0 +1,4 @@
+En este directorio se encuentra la unica biblioteca que necesitan
+cargar las aplicaciones que usen nSystem:
+
+libnSys.a
